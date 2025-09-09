@@ -1,0 +1,101 @@
+/* 1. Tag or Element Selector */
+
+/* h1{
+    background-color: coral;
+}
+ul{
+    background-color: aliceblue;
+}
+h2{
+    background-color: blueviolet;
+} */
+
+
+
+/* 2. id base selection or # based selection */
+
+/* #first{
+    background-color: aliceblue;
+}
+#second{
+    background-color: plum;
+} 
+*/
+
+
+
+/* 3. class based selection */
+
+/* .third {
+    background-color: gray;
+}
+.fourth{
+    background-color: aliceblue;
+} 
+*/
+
+
+
+/* 4. Group based selection*/
+
+/* h1 , .fourth{
+    background-color: aquamarine;
+}
+#first{
+    background-color: blue;
+} 
+*/
+
+
+/* ----------------------------FONTS---------------------------- */
+/* px(pixel) full form - Picture Element*/
+/* rem = according to root(size of html) */
+/* vw = viewport width */
+/* vh = viewport height */
+/* percentage of parent element */
+
+
+/* h1{
+    font-size: 80px;
+}
+ul{
+    font-size: 20px;
+}
+li{
+    font-size: 2em;
+}
+
+html{
+    font-size: 40px;
+} 
+*/
+
+
+/* h2{
+    font-size: 2rem; 
+} 
+*/
+
+
+/* h2{
+    font-size: 2vw; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300;
+    font-style: italic;  
+} */
+
+
+/* li{    
+    font-size: 50%; 
+} 
+*/
+
+
+/* li{
+    font-size: 3vh;
+} */
+
+
+
+
+
